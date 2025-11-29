@@ -1,0 +1,5 @@
+{
+  "name": "Celebal Technologies Azure BOM Calculator",
+  "description": "A modern, AI-powered Bill of Materials (BOM) calculator for Azure services. Estimate costs, plan architectures, and visualize spending using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
