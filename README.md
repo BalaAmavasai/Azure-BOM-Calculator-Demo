@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" alt="GHBanner" src="https://ctwebsite2025.blob.core.windows.net/media/celebalwebsite2025/assets_webp/common/images/ct-logo.webp" />
+<img width="1200" alt="GHBanner" src="https://ctwebsite2025.blob.core.windows.net/media/celebalwebsite2025/assets_webp/common/images/ct-logo.webp" style="background-color:white;" >
 </div>
 
 # Azure BOM Calculator Demo
