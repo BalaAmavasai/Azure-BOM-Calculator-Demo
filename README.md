@@ -2,11 +2,9 @@
 <img width="1200" alt="GHBanner" src="https://ctwebsite2025.blob.core.windows.net/media/celebalwebsite2025/assets_webp/common/images/ct-logo.webp" />
 </div>
 
-# Run and deploy your AI Studio app
+# Azure BOM Calculator Demo
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1qe5FTk0rsrM31M9yARDH3MVQlogUDOGo
+View the app in AI Studio: https://ai.studio/apps/drive/1qe5FTk0rsrM31M9yARDH3MVQlogUDOGo
 
 ## Run Locally
 
